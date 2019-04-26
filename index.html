@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width",
+          initial-scale="1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Gra Memory</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header>
+        <h1>Memory game</h1>
+</header>
+<div class="cosmic-container">
+    <div class="star"></div>
+    <div class="moon"></div>
+    <div class="star"></div>
+    <div class="planet">
+        <div class="spot1"></div>
+        <div class="spot2"></div>
+        <div class="spot3"></div>
+        <div class="spot4"></div>
+        <div class="spot5"></div>
+        <div class="spot6"></div>
+    </div>
+</div>
+<section class="memory-container">
+    <div class="memory-card" data-pair="1">
+        <img class="card-img" src="space/curiosity.jpg" alt="front-curiosity" />
+    </div>
+    <div class="memory-card" data-pair="1">
+        <img class="card-img" src="space/curiosity.jpg" alt="front-curiosity" />
+    </div>
+
+    <div class="memory-card" data-pair="2">
+        <img class="card-img" src="space/earth.jpg" alt="front-earth" />
+    </div>
+    <div class="memory-card" data-pair="2">
+        <img class="card-img" src="space/earth.jpg" alt="front-earth" />
+    </div>
+
+    <div class="memory-card" data-pair="3">
+        <img class="card-img" src="space/space%20station.jpg" alt="front-station" />
+    </div>
+    <div class="memory-card" data-pair="3">
+        <img class="card-img" src="space/space%20station.jpg" alt="front-station" />
+    </div>
+
+    <div class="memory-card" data-pair="4">
+        <img class="card-img" src="space/jupiter.jpg" alt="front-jupiter" />
+    </div>
+    <div class="memory-card" data-pair="4">
+        <img class="card-img" src="space/jupiter.jpg" alt="front-jupiter" />
+    </div>
+
+    <div class="memory-card" data-pair="5">
+        <img class="card-img" src="space/PIA12504_orig.jpg" alt="front-planet" />
+    </div>
+    <div class="memory-card" data-pair="5">
+        <img class="card-img" src="space/PIA12504_orig.jpg" alt="front-planet" />
+    </div>
+
+    <div class="memory-card" data-pair="6">
+        <img class="card-img" src="space/black%20whole.jpg" alt="front-black-whole" />
+    </div>
+    <div class="memory-card" data-pair="6">
+        <img class="card-img" src="space/black%20whole.jpg" alt="front-black-whole" />
+    </div>
+    <div class="memory-card" data-pair="7">
+        <img class="card-img" src="space/moon.jpg" alt="front-moon" />
+    </div>
+    <div class="memory-card" data-pair="7">
+        <img class="card-img" src="space/moon.jpg" alt="front-moon" />
+    </div>
+    <div class="memory-card" data-pair="8">
+        <img class="card-img" src="space/rocket.jpg" alt="front-rocket" />
+    </div>
+    <div class="memory-card" data-pair="8">
+        <img class="card-img" src="space/rocket.jpg" alt="front-rocket" />
+
+    </div>
+</section>
+<footer>
+    <h2>I <span class="heart">❤</span> SPACE</h2>
+    <div class="footer-container">
+        <div class="rocket-wrapper">
+            <button class="rocket btn new-game" onclick=restart()>New<br/> game</button>
+            <div class="front"></div>
+            <div class="window"></div>
+            <div class="wings"></div>
+        </div>
+        <div id="timer"></div>
+        <div id="score">Your score</div>
+    </div>
+
+</footer>
+
+<script src="script.js"></script>
+</body>
+</html>
