@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Noto+Serif+KR');
+@import url('https://fonts.googleapis.com/css?family=Noto+Serif&subset=latin-ext');
 
 * {
     padding: 0;
@@ -10,39 +10,29 @@ body {
 font-weight: bold;
     height: 100vh;
     width: 100vw;
-   max-width: 100%;
+    max-width: 100%;
     display: flex;
     font-family: 'Noto Serif KR', serif;
-    /*height: 50%;*/
-    background-image: url("space/galaxy.jpg");
-    /*background-color: #281c4a;*/
+    background-image: url("images/space/galaxy.jpg");
     background-size: cover;
-    background-repeat: no-repeat;
     margin: auto;
-    /*margin-right: auto;*/
-    /*margin-bottom: auto;*/
-    /*display: flex;*/
     flex-wrap: wrap;
-    /*opacity: 0.5;*/
 }
 
 .memory-container {
-    /*position: absolute;*/
     border-radius: 5px;
     z-index: 1;
-    /*left: 10%;*/
-    /*top: 10%;*/
     width: 500px;
     height:500px;
     display: flex;
     flex-wrap: wrap;
     border: 2px solid grey;
-    margin: auto;
+    /*margin: auto;*/
+    margin-top: 125px;
+    margin-right: 125px;
+    /*top: 15%;*/
+    /*right: 5%;*/
     background-color: darkslateblue;
-    /*background-image: url("space-2638126_1280.jpg");*/
-    /*background-size: cover;*/
-    /*opacity: 0.5;*/
-    /*perspective: 1000px;*/
 }
 
 .memory-card {
@@ -60,10 +50,7 @@ font-weight: bold;
  .card-img {
      width: 100%;
      height: 100%;
-     /*padding: 5px;*/
-     /*position: absolute;*/
      border-radius: 5px;
-     /*background: #000000;*/
  }
 
 .memory-card:active {
@@ -76,17 +63,15 @@ font-weight: bold;
 }
 
 .match {
-    background-image: url("white.png");
+    background-image: url("images/white.png");
     opacity: 0;
     border-radius: 5px;
 }
 
 .back {
-    background-image: url("back-image.png");
+    background-image: url("images/back-image.png");
     background-size: cover;
     border-radius: 5px;
-  /*opacity: 0;*/
-    /*z-index: 1;*/
     padding: 56px;
 }
 
@@ -95,7 +80,6 @@ div {
     font-size: 40px;
     color: white;
     display: flex;
-
 }
 
 .heart {
@@ -164,8 +148,6 @@ div {
 .rocket-wrapper {
     width: 200px;
     height: 200px;
-    /*bottom: 5%;*/
-    /*margin: 0 auto;*/
     animation: rocket-rotate 4s ease-in-out infinite alternate;
 }
 
@@ -179,8 +161,8 @@ div {
     width: 150px;
     height: 75px;
     position: absolute;
-   bottom: 300px;
-    left: 0;
+    bottom: 200px;
+    left: 100px;
     border-radius: 20% 95% 95% 20%;
     border-top: solid 10px #b3b3cc;
     background-color: #ffffff;
@@ -191,8 +173,8 @@ div {
     width: 40px;
     height: 40px;
     position: absolute;
-    bottom: 320px;
-    left: 35%;
+    bottom: 220px;
+    left: 85%;
     background: #281c4a;
     border:#a6a6a6 solid 5px;
     border-radius: 50%;
@@ -214,8 +196,8 @@ div {
     position: absolute;
     height: 30px;
     width: 75px;
-    bottom: 340px;
-    left: -35px;
+    bottom: 240px;
+    left: 70px;
     background:  #800000;
     border-top-left-radius: 5%;
     border-top-right-radius: 80%;
@@ -235,8 +217,8 @@ div {
 .moon {
     background-color: transparent;
     position: absolute;
-    top: 30px;
-    left: 600px;
+    top: 10px;
+    left: 400px;
     height: 100px;
     width: 100px;
     border-radius: 50%;
@@ -335,15 +317,12 @@ div {
 }
 
 header h1{
-    /*left: 15%;*/
     font-size: 60px;
     color: white;
     float: left;
     width: 700px;
     margin: 10px 10px 10px 100px;
-    /*position: absolute;*/
     top: 25px;
-    /*border: 2px red solid;*/
 }
 footer h2 {
     right: 15%;
@@ -354,21 +333,19 @@ footer h2 {
     margin: 10px;
     position: absolute;
     top: 25px;
-    /*border: 2px red solid;*/
 }
 .footer-container{
-    /*position: absolute;*/
     bottom: 15px;
     left: -150px;
-    /*right: 15px;*/
     width: 100%;
     height: 10%;
-    /*border: 2px solid yellow;*/
 }
-/*.cosmic-container{*/
-    /*position: absolute;*/
-    /*border: 2px red solid;*/
-/*}*/
+
+.footer-info{
+    display: inline;
+    margin-left: 150px;
+    margin-bottom: 300px;
+}
 
 @keyframes planet-h-movement {
     0% {left: 200vh;
