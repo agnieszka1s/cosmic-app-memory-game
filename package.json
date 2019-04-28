@@ -1,0 +1,23 @@
+{
+  "name": "cosmic-app-memory-game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prettier": "prettier --write **/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agnieszka1s/cosmic-app-memory-game.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/agnieszka1s/cosmic-app-memory-game/issues"
+  },
+  "homepage": "https://github.com/agnieszka1s/cosmic-app-memory-game#readme",
+  "devDependencies": {
+    "prettier": "1.17.0"
+  }
+}
