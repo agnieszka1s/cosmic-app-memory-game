@@ -27,11 +27,8 @@ font-weight: bold;
     display: flex;
     flex-wrap: wrap;
     border: 2px solid grey;
-    /*margin: auto;*/
     margin-top: 125px;
     margin-right: 125px;
-    /*top: 15%;*/
-    /*right: 5%;*/
     background-color: darkslateblue;
 }
 
@@ -212,7 +209,6 @@ div {
     border-bottom-right-radius: 80%;
     margin-top: 90px;
     background:  #990000;
-    /*transform: rotate(-25deg);*/
 }
 .moon {
     background-color: transparent;
@@ -229,7 +225,6 @@ div {
     content: "✦	";
     font-size: 28px;
     position: absolute;
-    /*color: #ffffff;*/
     left: 710px;
     top: 700px;
     animation: pulse 1s infinite;
