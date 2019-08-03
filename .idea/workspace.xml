@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b66e1a39-67d3-446a-8e86-e7492e815978" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../reading_list_app/public/fontello/LICENSE.txt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../reading_list_app/public/fontello/README.txt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../reading_list_app/public/fontello/config.json" afterDir="false" />
@@ -17,6 +18,30 @@
       <change afterPath="$PROJECT_DIR$/../reading_list_app/public/fontello/font/fontello.ttf" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../reading_list_app/public/fontello/font/fontello.woff" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../reading_list_app/public/fontello/font/fontello.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/back-image.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/back-image.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/black-image.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/black-image.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/space-2638126_1280.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/space-2638126_1280.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/space/KSC-20181201-PH_RKL01_0013_small.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/space/KSC-20181201-PH_RKL01_0013_small.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/space/PIA04234_small.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/space/PIA04234_small.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/space/PIA12504_orig.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/space/PIA12504_orig.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/space/PIA17248_medium.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/space/PIA17248_medium.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/space/S65-34635_small.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/space/S65-34635_small.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/space/Saturn.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/space/Saturn.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/space/black whole.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/space/black whole.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/space/curiosity.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/space/curiosity.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/space/earth.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/space/earth.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/space/galaxy.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/space/galaxy.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/space/jupiter.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/space/jupiter.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/space/kometa.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/space/kometa.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/space/moon.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/space/moon.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/space/rocket.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/space/rocket.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/space/space station.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/space/space station.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/white.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/white.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/styles.css" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -31,20 +56,22 @@
     <session id="-681061043">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
-          <entry key="project.open.time.0" value="1" />
+          <entry key="project.closed" value="6" />
+          <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.15" value="1" />
           <entry key="project.open.time.23" value="1" />
           <entry key="project.open.time.43" value="1" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="css" value="2" />
           <entry key="html" value="1" />
-          <entry key="js" value="1" />
+          <entry key="js" value="2" />
           <entry key="json" value="1" />
           <entry key="md" value="1" />
           <entry key="prettierrc" value="1" />
@@ -55,7 +82,7 @@
           <entry key="CSS" value="2" />
           <entry key="HTML" value="1" />
           <entry key="JSON" value="2" />
-          <entry key="JavaScript" value="1" />
+          <entry key="JavaScript" value="2" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
@@ -63,7 +90,7 @@
         <counts>
           <entry key="css" value="396" />
           <entry key="html" value="55" />
-          <entry key="js" value="134" />
+          <entry key="js" value="1308" />
           <entry key="json" value="24" />
           <entry key="md" value="512" />
         </counts>
@@ -73,7 +100,7 @@
           <entry key="CSS" value="396" />
           <entry key="HTML" value="55" />
           <entry key="JSON" value="24" />
-          <entry key="JavaScript" value="134" />
+          <entry key="JavaScript" value="1308" />
           <entry key="PLAIN_TEXT" value="512" />
         </counts>
       </usages-collector>
@@ -82,28 +109,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
+        <entry file="file://$PROJECT_DIR$/public/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2000">
-              <caret line="100" selection-start-line="100" selection-end-line="100" />
+            <state relative-caret-position="1700">
+              <caret line="85" column="49" selection-start-line="85" selection-start-column="49" selection-end-line="85" selection-end-column="49" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/styles.css">
+        <entry file="file://$PROJECT_DIR$/public/styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="555">
-              <caret line="220" column="13" selection-start-line="220" selection-start-column="13" selection-end-line="220" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/script.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-718">
-              <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+            <state relative-caret-position="1220">
+              <caret line="61" column="6" selection-start-line="61" selection-start-column="1" selection-end-line="61" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -111,8 +129,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="469">
-              <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+            <state relative-caret-position="300">
+              <caret line="15" column="28" lean-forward="true" selection-end-line="29" />
             </state>
           </provider>
         </entry>
@@ -120,7 +138,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="142">
+            <state relative-caret-position="160">
               <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
             </state>
           </provider>
@@ -131,6 +149,15 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="220">
               <caret line="11" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/script.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="257">
+              <caret line="99" column="37" lean-forward="true" selection-start-line="99" selection-start-column="37" selection-end-line="99" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -157,6 +184,8 @@
       <find>rocke</find>
       <find>moon</find>
       <find>planet</find>
+      <find>remove</find>
+      <find>match</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -166,11 +195,13 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/styles.css" />
         <option value="$PROJECT_DIR$/.prettierrc" />
         <option value="$PROJECT_DIR$/package.json" />
-        <option value="$PROJECT_DIR$/script.js" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/styles.css" />
+        <option value="$PROJECT_DIR$/script.js" />
+        <option value="$PROJECT_DIR$/public/index.html" />
+        <option value="$PROJECT_DIR$/public/script.js" />
       </list>
     </option>
   </component>
@@ -189,7 +220,7 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="476" />
+    <option name="x" value="475" />
     <option name="width" value="690" />
     <option name="height" value="1040" />
   </component>
@@ -207,6 +238,16 @@
               <item name="cosmic-app-memory-game" type="b2602c69:ProjectViewProjectNode" />
               <item name="cosmic-app-memory-game" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="cosmic-app-memory-game" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cosmic-app-memory-game" type="462c0819:PsiDirectoryNode" />
+              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cosmic-app-memory-game" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cosmic-app-memory-game" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -215,17 +256,18 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../My Projects/flashcards-app" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="prettierjs.PrettierConfiguration.Package" value="C:\Users\Aga\KURS CODERSLAB\ZALICZENIE\cosmic-app-memory-game\node_modules\prettier" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Aga\KURS CODERSLAB\ZALICZENIE\cosmic-app-memory-game\public" />
+      <recent name="C:\Users\Aga\KURS CODERSLAB\ZALICZENIE\cosmic-app-memory-game\images" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Aga\KURS CODERSLAB\ZALICZENIE\cosmic-app-memory-game" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Aga\KURS CODERSLAB\ZALICZENIE\cosmic-app-memory-game\images" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -255,17 +297,19 @@
       <workItem from="1556376286873" duration="638000" />
       <workItem from="1556393642585" duration="199000" />
       <workItem from="1556437511156" duration="3746000" />
+      <workItem from="1556445103248" duration="140000" />
+      <workItem from="1556445463871" duration="4048000" />
+      <workItem from="1556560803735" duration="1213000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16901000" />
+    <option name="totallyTimeSpent" value="22302000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14920424" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -284,6 +328,26 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.0842175" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Quokka" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32872504" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -292,6 +356,27 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1700">
+          <caret line="85" column="49" selection-start-line="85" selection-start-column="49" selection-end-line="85" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1220">
+          <caret line="61" column="6" selection-start-line="61" selection-start-column="1" selection-end-line="61" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/.prettierrc">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
@@ -299,38 +384,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
+    <entry file="file://$PROJECT_DIR$/public/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="142">
-          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-718">
-          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2000">
-          <caret line="100" selection-start-line="100" selection-end-line="100" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="555">
-          <caret line="220" column="13" selection-start-line="220" selection-start-column="13" selection-end-line="220" selection-end-column="13" />
+        <state relative-caret-position="257">
+          <caret line="99" column="37" lean-forward="true" selection-start-line="99" selection-start-column="37" selection-end-line="99" selection-end-column="37" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="469">
-          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+        <state relative-caret-position="300">
+          <caret line="15" column="28" lean-forward="true" selection-end-line="29" />
         </state>
       </provider>
     </entry>
